@@ -1,0 +1,2 @@
+(this["webpackJsonpant-study"]=this["webpackJsonpant-study"]||[]).push([[26],{1105:function(t,n,e){"use strict";e.r(n),e.d(n,"default",(function(){return o}));var u=e(66),a=e(67),r=e(68),c=e(69),i=e(0),s=e.n(i),o=function(t){Object(r.a)(e,t);var n=Object(c.a)(e);function e(){return Object(u.a)(this,e),n.apply(this,arguments)}return Object(a.a)(e,[{key:"render",value:function(){return s.a.createElement("div",null,"\u8bbe\u7f6e\u9875")}}]),e}(i.Component)}}]);
+//# sourceMappingURL=26.a1a56cb1.chunk.js.map

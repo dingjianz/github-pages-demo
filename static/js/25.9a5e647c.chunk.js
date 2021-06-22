@@ -1,0 +1,2 @@
+(this["webpackJsonpant-study"]=this["webpackJsonpant-study"]||[]).push([[25],{1106:function(t,n,e){"use strict";e.r(n),e.d(n,"default",(function(){return r}));var u=e(0),a=e.n(u);function r(){return a.a.createElement("div",null,a.a.createElement("h1",null,"404"))}}}]);
+//# sourceMappingURL=25.9a5e647c.chunk.js.map
